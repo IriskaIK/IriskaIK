@@ -16,10 +16,12 @@
 ## 🛠 Tech Stack
 
 - **Languages:** JavaScript (TypeScript), Python 
-- **Backend Frameworks:** Django, DRF, Express 
+- **Backend Frameworks:** Express, Django, DRF,  
 - **Frontend Frameworks:** React, Vue
- - **Databases:** PostgreSQL, MongoDB, Neo4j, Redis
+ - **Databases:** PostgreSQL, MongoDB, Neo4j, Redis, Firebase
 - **Unit Testing:** Jest
+- **Frontend Tools:** Redux(RTK), React Router, Mantine, Zustand, Pinia, Vue Router, Vuetify
+- **Backend Tools:** Objection.js, Knex.js, Passport.js, SQLAlchemy
 - **Other Tools:** Git, Docker, AWS, Google services, Telegram Bots
 
 ## 🌱 Soft Skills 
@@ -39,3 +41,10 @@ I'm actively expanding my knowledge in **web development**, focusing on technolo
  - **Backend:** Node.js, Express
  - **Databases:** Redis
  - **Cloud Services:** AWS
+
+
+## 📫 Connect with Me
+
+Feel free to connect with me or explore my projects!
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IriskaIK) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-petrychenko-a28528241/) [![Telegram](https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/Iriska_IK)
