@@ -8,7 +8,7 @@
 - **[Client Frontend for 3D Model Shop](https://github.com/IriskaIK/3D-model-shop-client):** Client-facing website written in Vue for an online shop platform selling board games and 3D models.
 - **[Admin Frontend for 3D Model Shop](https://github.com/IriskaIK/3D-model-shop-admin-panel):**  This project is the admin panel written in React for an platform focused on selling board games and 3D models.
 - **[Backend for social-app(Microservices)](https://github.com/IriskaIK/social-app-backend-mircoservices):** Nest.js backend for social-app written in TypeScript using microservice architecture. (AWS S3 + Pg + Redis + Sockets)
-- **[ORM On TypeScript](https://github.com/IriskaIK/kubic-orm):** This project is a custom ORM (Object-Relational Mapping) built with TypeScript as part of my coursework project.
+- **[ORM On TypeScript](https://github.com/IriskaIK/yet-another-orm-implementation):** This project is a custom ORM (Object-Relational Mapping) built with TypeScript as part of my coursework project.
 
 ## 💼 Experience
 - **Website For Faculty Departament:** Worked in a team as a backend developer to develop the website of the Software Engineering department for my faculty
