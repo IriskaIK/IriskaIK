@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Petrychenko Pavlo</h1>
 
- I'm a passionate **Software Engineer** and a second-year student at **Taras Shevchenko National University of Kyiv**, majoring in Software Engineering. I enjoy learning and creating **web development** projects, both front-end and back-end.
+ I'm a passionate **Software Engineer** and a third-year student at **Taras Shevchenko National University of Kyiv**, majoring in Software Engineering. I enjoy learning and creating **web development** projects, both front-end and back-end.
 
 ## 🐾 Pet Projects 
 - **[Backend for 3D Model Shop](https://github.com/IriskaIK/3D-model-shop-server):** Express RESTful server written in TypeScript, designed to power an online shop specializing in 3D models.
